@@ -4,7 +4,7 @@ Códigos implementados en MATLAB para el proyecto "Representación de la Ecuaci�
 
 - El archivo titulado **getframes.m** fue el utilizado para extraer los frames del video a cámara rápida.
 - El archivo CSV **data_VA** son los datos curados y sin valores atípicos. 
-- La interpolación y generación de la "sábana" de datos fue posible con el códigode **inter.m**, el cual implementa la función **importfile2.m** para importar la base de datos. 
+- La interpolación y generación de la "sábana" de datos fue posible con el código **inter.m**, el cual implementa la función **importfile2.m** para importar la base de datos. 
  
 
 Este proyecto fue realizado por los siguientes alumnos de 4to semestre de la Lic. en Tecnología: 
